@@ -20,3 +20,5 @@ Este projeto automatiza o fluxo de envio de cotação no site da Tricentis, util
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Camilardrigues/projeto-cypress-tricentis.git
+
+## 👩‍💻 Por Camila Rodrigues" 
